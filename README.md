@@ -13,4 +13,4 @@ npm i
 npm run watch
 ```
 
-you can find the fully working application [here](git@github.com:lenny-g/mern-book-search-frontend.git)
+you can find the fully working application [here](https://frozen-depths-23834.herokuapp.com/)

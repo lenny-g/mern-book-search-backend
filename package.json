@@ -19,8 +19,11 @@
   },
   "homepage": "https://github.com/lenny-g/mern-book-search-backend#readme",
   "dependencies": {
+    "apollo-server": "^3.6.3",
     "bcrypt": "^4.0.1",
+    "dotenv": "^16.0.0",
     "express": "^4.17.1",
+    "graphql": "^16.3.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.10"
   },
